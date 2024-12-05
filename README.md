@@ -1,6 +1,6 @@
-# try_with_andstudio
+# Food Vendors
 
-A new Flutter project.
+Is a Flutter frontend part of a larger application - StudentSync
 
 ## Getting Started
 
