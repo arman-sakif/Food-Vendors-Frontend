@@ -2,15 +2,29 @@
 
 Is a Flutter frontend part of a larger application - StudentSync
 
-## Getting Started
+# StudentSync Frontend
 
-This project is a starting point for a Flutter application.
+This is the frontend of the **StudentSync** mobile application, developed using the **Flutter** framework. The app is designed to enhance campus life by providing features like a Food Vendor Locator and Lost and Found service in a centralized, user-friendly platform.
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Platform Support
+- ✅ Android
+- ✅ iOS
+- ✅ Web (limited compatibility)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- **Flutter**: Cross-platform UI toolkit used to develop responsive and visually consistent interfaces.
+- **Dart**: Programming language used for logic and UI implementation.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎯 Features Implemented
+- **Food Vendor Locator**: View real-time data on nearby food vendors, menus, seating availability, and offers.
+- **Lost and Found**: Report and search for lost items, with secure user-to-user communication.
+
+## 📁 Structure
+The frontend is structured into modular screens and components to support scalability and maintainability.
+
+## 🚀 Getting Started
+To run the app locally:
+```bash
+flutter pub get
+flutter run
+
